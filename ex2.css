@@ -1,0 +1,70 @@
+.div-header{
+    background-color: red;
+    display: flex;
+    width: 100%;
+    height: 60px;
+    color: red;
+
+}
+.div-img img {
+    width: 250px;
+    height: 60px;
+}
+header a{
+    color: white;
+}
+.links {
+    color: white;
+    display: flex;
+    width: 50%;
+    justify-content: space-evenly;
+}
+.div-container{
+    width: 100%;
+    height: 50vh;
+}
+.div-main{
+    background-color: cornflowerblue;
+    display: flex;
+    width: 100%;
+    height: 290px;
+}
+.div-twin {
+    height: 100%;
+    width: 50%;
+}
+.div-twin img{
+
+    width: 100%;
+    height: 100%;
+}
+
+
+.imagens{
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+.div_filho{
+    display: flex;
+    height: 300px;
+    width: 32vw;
+    background-color: #a1c6f6;
+
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.div-pai{
+    height: 100%;
+    display: flex;
+
+    justify-content: space-around;
+
+}
+
+
+
